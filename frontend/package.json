@@ -17,7 +17,7 @@
     "axios": "^0.21.1",
     "bowser": "^2.11.0",
     "clsx": "^1.1.1",
-    "fabric": "^4.2.0",
+    "fabric": "^5.3.0",
     "function-plot": "^1.22.2",
     "hark": "^1.2.3",
     "mediasoup-client": "^3.6.29",
